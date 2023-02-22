@@ -1,9 +1,9 @@
 # if / elif / else
 # se / se não se / se não
-condição1 = True
+condição1 = False
 condição2 = False
 condição3 = False
-condição4 = False
+condição4 = True
 # ... ou pass é para nao escrever determinado codigo, o interpretador vai passa por ele,
 # e executara o proximo codigo. 
 
