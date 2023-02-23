@@ -1,5 +1,5 @@
-# if / elif / else
-# se / se não se / se não
+
+
 condição = False
 
 if condição:
