@@ -1,6 +1,6 @@
 
 
-condição = False
+condição = True
 
 if condição:
     print('este é o codigo do if')

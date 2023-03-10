@@ -3,7 +3,7 @@ Docstring
 Python->linguagem de programação
 Tipo de tipagem = Dinamica ( sabe o tipo da programação)/forte
 str -> string -> texto
-string sã texto que estão dentro de aspas
+string são texto que estão dentro de aspas
 """
 print(1234) #CTRL+X = CORTE
 

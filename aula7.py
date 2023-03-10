@@ -1,5 +1,5 @@
 # variaveis são usadas para salvar algo na memória do computador.
-#PEP8: inicie variáveis com letra minuscula, pode usar
+# PEP8: inicie variáveis com letra minuscula, pode usar
 # numeros e underline _.
 # o sinal de = é o operador de atribuição. ele é usado para 
 # atribuir um valor a um nome (variável).

@@ -10,5 +10,5 @@ print (formato)
 
 # out of ranger = erro que pode aconteceu quando é pedido para executar algum argumento que 
 # ja finalizou. 
-#formato = string.format(a, b, mone3c) = parametro nomeadotem que colocar em todos
+# formato = string.format(a, b, mone3c) = parametro nome adotem que colocar em todos
 # 
