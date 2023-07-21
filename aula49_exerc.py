@@ -10,7 +10,7 @@ Faça a contagem de tentativas do seu usuario
 """
 import os
 
-palavra_secreta = 'leite'
+palavra_secreta = 'gostosona'
 letras_acerdatas = ''
 numero_tentativa = 0
 
